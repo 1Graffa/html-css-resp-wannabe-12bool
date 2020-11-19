@@ -8,8 +8,11 @@
   .debug .row [class*="col-"]{
     height: 100%;
   }
-  .width-100{
+  .width-200{
     width: 200px ;
+  }
+  .width-160{
+    width: 160px
   }
   .debug .sfondogrigio{
     background-color: #F9F9F9 ;
@@ -19,8 +22,10 @@
     margin-bottom: 50px;
   }
   .debug .last{
-    margin-bottom: 50px;
     padding: 0 10%;
+  }
+  .debug hr{
+    margin-bottom: 50px;
   }
   .debug h2{
     font-size: 30px;
