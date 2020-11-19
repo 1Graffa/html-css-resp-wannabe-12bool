@@ -3,11 +3,9 @@
   margin: 0 auto;
 }
   .debug .row{
-    height: 250px;
-
+    height: 100px;
   }
   .debug .row [class*="col-"]{
-    float: left;
     border: 1px solid black;
     height: 100%;
   }
