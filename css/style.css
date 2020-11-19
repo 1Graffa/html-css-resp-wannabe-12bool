@@ -25,8 +25,11 @@
   .debug h2{
     font-size: 30px;
   }
-  .debug .cerchio-bcg{
+  .debug .bg{
+    padding: 20px;
     background-color: #428bca;
     border-radius: 50%;
-
+  }
+  .debug .altezza{
+    height: 200px;
   }
