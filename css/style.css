@@ -3,12 +3,30 @@
   margin: 0 auto;
 }
   .debug .row{
-    height: 100px;
+    text-align: center;
   }
   .debug .row [class*="col-"]{
-    border: 1px solid black;
     height: 100%;
   }
   .width-100{
-    width: 100% ;
+    width: 200px ;
+  }
+  .debug .sfondogrigio{
+    background-color: #F9F9F9 ;
+    margin-bottom: 80px;
+  }
+  .debug .first{
+    margin-bottom: 50px;
+  }
+  .debug .last{
+    margin-bottom: 50px;
+    padding: 0 10%;
+  }
+  .debug h2{
+    font-size: 30px;
+  }
+  .debug .cerchio-bcg{
+    background-color: #428bca;
+    border-radius: 50%;
+
   }
